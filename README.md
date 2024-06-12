@@ -9,3 +9,5 @@ Me chamo Giovanna Campos
 **caso você queira aprofundar os seus conhecimentos junto comigo, segue o link abaixo:]
 
 https://scratch.mit.edu/projects/1008844914
+
+https://scratch.mit.edu/projects/986982793
