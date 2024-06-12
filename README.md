@@ -2,7 +2,7 @@
 
 Me chamo Giovanna Campos
 
-- Sou uma estudante do Chanceler, e estou fazendo projetos na plataforma do Alura
+- Sou uma estudante do Chanceler, e estou fazendo projetos na plataforma do [Alura](http;//www.alura.com.br)
 - Estou me desenvolvendo na linguagem do JavaScript no momento
 - Aqui, você ficará a par dos meus projetos
 
