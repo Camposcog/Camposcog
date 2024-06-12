@@ -6,7 +6,7 @@ Me chamo Giovanna Campos
 - Estou me desenvolvendo na linguagem do JavaScript no momento
 - Aqui, você ficará a par dos meus projetos
 
-**caso você queira aprofundar os seus conhecimentos junto comigo, segue o link abaixo:]
+***caso você queira aprofundar os seus conhecimentos junto comigo, segue o link abaixo:
 
 https://scratch.mit.edu/projects/1008844914
 
